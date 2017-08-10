@@ -1,2 +1,2 @@
 # login_mts
-Script for parsing site mts
+Script for parsing and pickup data of site mts
